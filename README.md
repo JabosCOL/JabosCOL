@@ -1,5 +1,6 @@
 
-Hi there, thanks for stopping by, this is **David Bolivar**. 🧑💻
+### Hi there, thanks for stopping by, this is **David Bolivar**. 🧑💻
+> "Never try, never know"
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
