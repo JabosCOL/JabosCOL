@@ -1,6 +1,5 @@
 
-
-Hi there, thanks for stopping by, this is **David Bolivar**.
+Hi there, thanks for stopping by, this is **David Bolivar**. 🧑💻
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
@@ -10,10 +9,11 @@ const David = {
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            js: ["React", "Context", "Next.js"],
-            css: ["Tailwind", "SASS", "Styled Components"]
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "SASS", "Styled Components", CSS Modules]
         },
-        backEnd: ["PHP"]
+        backEnd: ["PHP"],
+        Testing: ["Cypress", "React Testing Library"]
     }
 };
 ```
