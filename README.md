@@ -29,4 +29,4 @@ const David = {
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 
-![bottom.png](https://res.cloudinary.com/dvt3lwrsz/image/upload/v1674259238/Background_jvv083.jpg)
+<img src="https://res.cloudinary.com/dvt3lwrsz/image/upload/v1674259238/Background_jvv083.jpg" width="1000">
