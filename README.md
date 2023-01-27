@@ -11,7 +11,7 @@ const David = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Tailwind", "SASS", "Styled Components", CSS Modules]
+            css: ["Tailwind", "SASS", "Styled Components", "CSS Modules"]
         },
         backEnd: ["PHP"],
         Testing: ["Cypress", "React Testing Library"]
