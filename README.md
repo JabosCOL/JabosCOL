@@ -1,6 +1,6 @@
 
 ### Hi there, thanks for stopping by, this is **David Bolivar**. 🧑💻
-> "Never try, never know"
+> "Don't count the days, make the days count"
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
