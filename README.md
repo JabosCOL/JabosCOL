@@ -2,7 +2,7 @@
 ### Hi there, thanks for stopping by, this is **David Bolivar**. 🧑💻
 > "Don't count the days, make the days count"
 
-<img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+![background](https://github.com/user-attachments/assets/d366417b-4b30-4ef9-a066-6fa96a21c8b9)
 
 ```javascript
 const David = {
@@ -28,4 +28,4 @@ const David = {
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-![background](https://github.com/user-attachments/assets/d366417b-4b30-4ef9-a066-6fa96a21c8b9)
+
