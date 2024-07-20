@@ -14,7 +14,7 @@ const David = {
             css: ["Tailwind", "SASS", "Styled Components", "CSS Modules"]
         },
         backEnd: ["Typescript","Node.js", "Express", "PostgreSQL", "MySQL"],
-        Testing: ["SuperTest", "Cypress", "React Testing Library"]
+        testing: ["SuperTest", "Cypress", "React Testing Library"]
     }
 };
 ```
