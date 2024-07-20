@@ -20,12 +20,17 @@ const David = {
 ```
 
 <a href="https://www.linkedin.com/in/david-bolivar-a6b590228/">
-  <img src="https://res.cloudinary.com/dvt3lwrsz/image/upload/c_scale,w_150/v1674215773/linkedin_sx8ozg.png">
+  <img src="https://github.com/user-attachments/assets/3155df91-4ef4-4f01-88e7-4630afc79df6">
+  <br>
 </a>
+<br>
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-
-
+![react](https://github.com/user-attachments/assets/2f2419e0-5f5c-4bc3-9aca-60a350081b96)
+![nextjs](https://github.com/user-attachments/assets/a1be44ab-2703-4a87-8f71-c64ccab4b5d4)
+![typescript](https://github.com/user-attachments/assets/cb19f1cf-8f64-47aa-beea-19880f4766d4)
+![javascript](https://github.com/user-attachments/assets/62e5727d-83ca-4c7b-abb9-018307d21a1e)
+![tailwind](https://github.com/user-attachments/assets/30a81384-92db-4fb1-af1d-ce4e9ede4f3d)
+![sass](https://github.com/user-attachments/assets/c645e703-9e01-4812-971a-c75bd7ff73b0)
+![css](https://github.com/user-attachments/assets/56b42f26-00c2-4275-ab79-5f9c1378c937)
+![postgreSQL](https://github.com/user-attachments/assets/7046098c-bc77-4452-afc6-d6537e20e645)
+![nodejs](https://github.com/user-attachments/assets/e4d1d91b-e5ad-42dd-8df3-abef18961b2b)
