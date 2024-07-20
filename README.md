@@ -28,5 +28,4 @@ const David = {
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-![background](https://github.com/user-attachments/assets/cc6e25a3-c6ba-4279-ba00-80b2a51e9f08)
-<img src="https://res.cloudinary.com/dvt3lwrsz/image/upload/v1674259238/Background_jvv083.jpg" width="1000">
+![background](https://github.com/user-attachments/assets/d366417b-4b30-4ef9-a066-6fa96a21c8b9)
